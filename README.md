@@ -1,6 +1,6 @@
 # Pushkin React
 
-![http://i.imgur.com/ncRJMJ5.png]
+!(http://i.imgur.com/ncRJMJ5.png)
 
 
 
