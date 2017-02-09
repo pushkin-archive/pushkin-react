@@ -1,11 +1,9 @@
 # Pushkin React
 
-http://i.imgur.com/ncRJMJ5.png
+![http://i.imgur.com/ncRJMJ5.png]
 
 
-[![Travis][build-badge]][build]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
+
 # Overview
 
 Pushkin React is a system that uses [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) to simplify the process of creating client side, psychological quizzes.
