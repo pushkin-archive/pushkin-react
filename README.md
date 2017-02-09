@@ -20,6 +20,10 @@ Pushkin React is a system that uses [React](https://facebook.github.io/react/) a
 Pushkin React relies on a set of endpoints that match the `pushkin-api` spec.
 Pushkin React requires itself to be integrated into an existing redux store
 
+Check out the demo app in this repo or run `npm start` to get going with `pushkin-react` 
+
+1. `git clone --recursive`
+2. `npm start`
 
 
 ## SurveyProvider
@@ -66,5 +70,4 @@ Import `SurveyProvider` and render it on the page
 
 # Extension
 
-Check out the demo app in this repo or run `npm start` to get going with `pushkin-react` 
 
