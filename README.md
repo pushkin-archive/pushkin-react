@@ -42,6 +42,7 @@ Props
 Import `pushkinReducer`  and bring it into your redux store
 (make sure you have `redux-thunk` configured)
 
+```JS
 
     import { combineReducers } from 'redux';
     import pushkinReducer from '../pushkin-react/reducers/index';
@@ -49,9 +50,11 @@ Import `pushkinReducer`  and bring it into your redux store
     export const rootReducer = combineReducers({
       pushkin: pushkinReducer
     });
+```
 
 Import `SurveyProvider` and render it on the page
 
+```JS
     render() {
       return (
             <SurveyProvider 
@@ -63,6 +66,7 @@ Import `SurveyProvider` and render it on the page
             />
       );
     }
+```
 
 
 
