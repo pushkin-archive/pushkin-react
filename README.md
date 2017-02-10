@@ -45,7 +45,7 @@ Import `pushkinReducer`  and bring it into your redux store
 ```JS
 
     import { combineReducers } from 'redux';
-    import pushkinReducer from '../pushkin-react/reducers/index';
+    import pushkinReducer from 'pushkin-react';
     
     export const rootReducer = combineReducers({
       pushkin: pushkinReducer
