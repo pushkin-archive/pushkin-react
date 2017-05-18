@@ -1,6 +1,6 @@
 {
   "name": "pushkin-react",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "pushkin-react",
   "main": "lib/index.js",
   "module": "es/index.js",
