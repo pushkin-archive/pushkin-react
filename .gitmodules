@@ -1,3 +1,0 @@
-[submodule "demo/jsPsych"]
-	path = demo/jsPsych
-	url = git@github.com:l3atbc/jsPsych.git
