@@ -1,3 +1,0 @@
-[submodule "demo/jsPsych"]
-	path = demo/jsPsych
-	url = https://github.com/pushkin-consortium/jsPsych.git
